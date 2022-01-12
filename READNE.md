@@ -3,7 +3,7 @@
 
 https://dacon.io/cpt13/228543
 
-![rank](./image/rank.png)
+![rank](rank.png)
 
 총 264팀 중 6등을 하였으며, 3명의 팀원으로 구성되어 대회에 참가하였습니다.
 
